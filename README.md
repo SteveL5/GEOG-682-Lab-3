@@ -1,4 +1,4 @@
-### Lab 4: Raster Analysis in Python
+### Lab 3: Raster Analysis in Python
 
 #### Total Points: 10
 
