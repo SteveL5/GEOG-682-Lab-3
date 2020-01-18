@@ -27,4 +27,4 @@ Now import the *matplotlib* and *rasterio* packages and load *image1.tif* and *i
 
 
 
-When you have completed this notebook, upload it to the same GitHub repository that contains the Lab3_example notebook, then copy the URL tand submit it to Canvas.  Good luck!
+When you have completed this notebook, upload it to your GitHub repository that contains the Lab3_example notebook, then copy the URL tand submit it to Canvas.  Good luck!
