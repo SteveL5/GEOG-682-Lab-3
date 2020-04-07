@@ -15,7 +15,7 @@ IMPORTANT: Binder will only save your work while your Jupyter Notebook web brows
 
 Your assignment is to conduct a basic analysis of two 3 band (RGB) Sentinel-2 scenes. Start by using Binder to create a new Jupyter Notebook named *yourlastname_Lab3*, then add your name, the date, and “GEOG 682 Lab 3” as Markup.
 
-Now import the *matplotlib* and *rasterio* packages and load *image1.tif* and *image2.tif*. Your task is to create a complete Jupyter notebook that meets the following requirements:
+Now import the *matplotlib* and *rasterio* packages and load the two Sentinel-2 scenes I have provided (*image1.tif* and *image2.tif*). Your task is to create a complete Jupyter notebook that meets the following requirements:
 
 - Plot(s) that show both of the Sentinel-2 scenes using the *terrain* colormap. 
 
